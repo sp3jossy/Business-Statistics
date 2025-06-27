@@ -30,4 +30,4 @@ To determine whether the new landing page leads to a statistically significant i
 
 ## 🔗 View Notebook
 
-[Click to View HTML Version](./JA_BS_ENews_Express_Project_Full_Code.html)
+[Click to View HTML Version](https://www.dropbox.com/scl/fi/0u688savg4hz71qkmrc4c/JA_BS_ENews_Express_Project_Full_Code.html?rlkey=c00fs2egmzc9j66eoxk0in7nu&st=o5bfhnv4&dl=0)
